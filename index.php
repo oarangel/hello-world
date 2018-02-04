@@ -1,3 +1,3 @@
-<h1>Hello World</h1>
+<h1>Hello World!</h1>
 
-<img src="/images/lion.jpg">
+<img src="/image/lion.jpg" alt="Big Cat">
